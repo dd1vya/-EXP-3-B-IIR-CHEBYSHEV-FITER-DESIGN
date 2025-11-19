@@ -61,13 +61,13 @@ disp(a, "Denominator coefficients (a):");
 
 
 ## OUTPUT (LPF) : 
-<img width="1911" height="1199" alt="image" src="https://github.com/user-attachments/assets/d5e2d6d7-3903-4626-9fd5-72f602171e76" />
-
+<img width="1607" height="880" alt="image" src="https://github.com/user-attachments/assets/0179a3bb-38ce-4a64-a868-f0e84e88289a" />
 
 
 
 ## OUTPUT (HPF) : 
-<img width="1919" height="1197" alt="image" src="https://github.com/user-attachments/assets/55964f30-1d40-4df8-bbf8-e86a70e88b0f" />
+<img width="1644" height="899" alt="image" src="https://github.com/user-attachments/assets/64d14162-04c4-48b0-9973-9ca02bbc6dda" />
+
 
 
 ## RESULT:
